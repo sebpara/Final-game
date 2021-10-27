@@ -1,2 +1,2 @@
 # Final-game
-This repository is for pitching the game idea to my classmates
+This repository is made to pitch my final project game idea to my classmates.
